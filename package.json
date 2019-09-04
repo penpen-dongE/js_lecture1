@@ -1,0 +1,23 @@
+{
+  "name": "lecture1",
+  "version": "1.0.0",
+  "description": "this is a test",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node helloworld.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penpen-dongE/js_lecture1.git"
+  },
+  "author": "DH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/penpen-dongE/js_lecture1/issues"
+  },
+  "homepage": "https://github.com/penpen-dongE/js_lecture1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
